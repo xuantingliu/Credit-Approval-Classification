@@ -42,3 +42,8 @@ A14: continuous.
 A15: continuous. 
 
 A16: +,- (class attribute)
+
+### Model Information:
+Scikit-learn Random Forest Pipeline
+
+Final AUC: 0.95
